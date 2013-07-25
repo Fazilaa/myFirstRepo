@@ -1,3 +1,5 @@
 Hello All
 
 Just trying to learn GIT and GITHUB here
+
+This is the second commit
